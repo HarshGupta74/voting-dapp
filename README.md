@@ -1,7 +1,6 @@
 # BlockChainVoting
 
 A blockchain-based E-voting system. Teammates include me, Vivek Dhiman, Vansh Gupta, Vansh Dixit, Vasu Gupta.
-> The application is MIT-Licensed.
 
 ## Build Setup
 
