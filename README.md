@@ -15,8 +15,8 @@ npm run dev
 
 Create your own <b>.env</b> file and the file should contain:
 ```bash
-EMAIL=harshgupta.it24@gmail.com
-PASSWORD=Harsh@2002
+EMAIL=harsh######@gmail.com
+PASSWORD="#########"
 ```
 Install MetaMask extension (https://metamask.io/download.html) and make sure to have some Ether to test the application locally.
 
