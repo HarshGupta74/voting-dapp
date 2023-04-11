@@ -1,6 +1,6 @@
 # BlockChainVoting
 
-A blockchain-based E-voting system. Teammates include me, Vivek Dhiman, Vansh Gupta, Vansh Dixit, Vasu Gupta.
+A blockchain-based E-voting system.
 
 ## Build Setup
 
